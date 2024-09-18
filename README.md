@@ -1,11 +1,9 @@
-HW1: Get on the Web
-///////////////////
+HW1: Get on the Web 
 
 This is a basic site using html and css that introduces a little about myself.
 
 
 Questions:
-//////////
 
 1) Name one thing you like about using GitHub and one about using Cpanel 
    hosting.
@@ -27,7 +25,6 @@ Questions:
 
 
 Deliverables:
-/////////////
 
 URL for page on cPanel hosting: 
 https://johnp392.sg-host.com/HW1/content.html
@@ -39,13 +36,15 @@ HTML file uploaded to Canvas
 
 
 Screenshots:
-////////////
 
-![Page being hosted on my local system](assets/local_screenshot.png)
+Page being hosted on my local system
+![local_sys](assets/local_screenshot.png)
 
-![Page hosted on cPanel hosting (SiteGround) from my desktop/laptop]
-(assets/siteground_screenshot.png)
+Page hosted on cPanel hosting (SiteGround) from my desktop/laptop
+![cPanel](assets/siteground_screenshot.png)
 
-![Page screenshot from my phone (SiteGround)](assets/ios_cpanel.PNG)
+Page screenshot from my phone (SiteGround)
+![siteground_ios](assets/ios_cpanel.PNG)
 
-![Page screenshot from my phone (GitHub)](assets/ios_github.png)
+Page screenshot from my phone (GitHub)
+![github_ios](assets/ios_github.png)
