@@ -44,7 +44,7 @@ Page hosted on cPanel hosting (SiteGround) from my desktop/laptop
 ![cPanel](assets/siteground_screenshot.png)
 
 Page screenshot from my phone (SiteGround)
-![siteground_ios](assets/ios_cpanel.PNG)
+![siteground_ios](assets/ios_cpanel.png)
 
 Page screenshot from my phone (GitHub)
 ![github_ios](assets/ios_github.png)
